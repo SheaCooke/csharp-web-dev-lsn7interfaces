@@ -30,6 +30,8 @@ namespace IceCreamShop
                 Console.WriteLine(i.Name);
             }
 
+            Console.WriteLine("\n\n");
+
             // TODO: Use a Comparator class to sort the 'cones' array in increasing order by the 'cost'
             //  field.
 
